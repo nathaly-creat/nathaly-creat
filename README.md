@@ -3,7 +3,7 @@
 
 
 - 🔭 Actualmente estoy trabajando [Burguer Queen-Api-Client Laboratoria](https://github.com/nathaly-creat/BOG004-burger-queen-api-client).
-- 🌱 I’m currently learning ***React***.
+- 🌱 Actualmente estoy aprendiendo ***React***.
 - 🤔 Si tienes alguna duda podemos conversar 💬 sobre: 
   `{code: [Javascript, HTML, CSS, Python]}`
 - 📫 Me puedes encontrar por acá: 
