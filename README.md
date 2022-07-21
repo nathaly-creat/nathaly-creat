@@ -6,7 +6,7 @@
 
 
 
-- 🔭 Actualmente estoy trabajando [Burguer Queen-Api-Client Laboratoria](https://github.com/nathaly-creat/BOG004-burger-queen-api-client).
+- 🔭 Actualmente estoy trabajando [notes-app]()
 - 🌱 Actualmente estoy aprendiendo ***React***.
 - 🤔 Si tienes alguna duda podemos conversar 💬 sobre: 
  
