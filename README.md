@@ -20,7 +20,7 @@ const nathaly_creat = {
 - 📫 Me puedes encontrar por acá: 
 [![Linkedin: Nathaly Huerta](https://img.shields.io/badge/-NathalyHuerta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathalyhuertabermúdez/)](https://www.linkedin.com/in/nathalyhuertabermúdez/)
 [![GitHub Nathaly](https://img.shields.io/github/followers/nathaly-creat?label=follow&style=social)](https://github.com/nathaly-creat/)
- - Puedes ver mi CV [aquí](https://www.canva.com/design/DAE9n_qJ4sw/IN9v2lS0lkuMnPcmkmQMxg/view?utm_content=DAE9n_qJ4sw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+ - Puedes ver mi CV [aquí](https://www.canva.com/design/DAFG46h0KmA/WfMYIE8e8J8v06z09gWGfw/view?utm_content=DAFG46h0KmA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 Tech Skills: 
 ![https://developer.mozilla.org/es/docs/Web/HTML](https://res.cloudinary.com/dtaq1ip2g/image/upload/v1653397840/file_type_html_icon_130541_atmw6h.png)
